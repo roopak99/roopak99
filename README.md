@@ -9,7 +9,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roopak99&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roopak99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
